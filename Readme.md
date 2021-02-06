@@ -1,12 +1,12 @@
 # Parking Reservation API Assignment
 
-##Project Description:
+## Project Description:
 
 Assume that we are building a street parking spot reservation service. Each parking spot is identified by its location (lat, lng). Users should be able to view street parking spots, reserve and pay for the parking spots or cancel their reservations. Build REST API's for the following and share the github repository with us. You can populate your database with any dummy data you want.
 
  
 
-##Requirements:
+## Requirements:
 
 • See available parking spots on a map
 
@@ -32,12 +32,12 @@ Assume that we are building a street parking spot reservation service. Each park
 
 
 
-###Important Details
+### Important Details
 
 
-####Python Version Used: 3.6.9
+#### Python Version Used: 3.6.9
 
-####DB Used: MySQL 5.7
+#### DB Used: MySQL 5.7
 
 #### For Sending OTP To Phone/Mobile: Twilio API
 
