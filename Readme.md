@@ -32,7 +32,7 @@ Assume that we are building a street parking spot reservation service. Each park
 
 
 
-### Important Details
+### Project Built With:
 
 
 #### Python Version Used: 3.6.9
