@@ -10,9 +10,7 @@ class IsUserForReservation(BasePermission):
 
     def has_object_permission(self, request, view, object):
 
-        if object.is_booked_by(request.user):
-            return True
-        return False
+        return object.is_booked_by(request.user)
 
 
 class UserIsOwner(BasePermission):

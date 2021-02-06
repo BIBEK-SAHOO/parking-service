@@ -102,7 +102,7 @@ DATABASES = {
         'ATOMIC_REQUESTS': True,
         'NAME': ''+DB_NAME,
         'USER': 'root',
-        'PASSWORD': 'softcorner',
+        'PASSWORD': 'yourpassword',
         'HOST': 'localhost',
 
     }

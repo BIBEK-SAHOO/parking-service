@@ -1,0 +1,7 @@
+External Sources
+------------------------
+
+# To Generate and verify OTP
+    Source: https://medium.com/analytics-vidhya/how-to-implement-otp-based-authentication-on-django-rest-framework-185ae8032f07#:~:text=The%20Post%20Request&text=Step%201%3A%20Find%20that%20phone,the%20authenticity%20of%20the%20user.
+
+---------------------------------------------
