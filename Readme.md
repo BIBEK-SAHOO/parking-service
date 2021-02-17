@@ -6,7 +6,7 @@ Assume that we are building a street parking spot reservation service. Each park
 
  
 
-## Requirements:
+## Features:
 
 • See available parking spots on a map
 
