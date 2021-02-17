@@ -2,7 +2,7 @@
 
 ## Project Description:
 
-Assume that we are building a street parking spot reservation service. Each parking spot is identified by its location (lat, lng). Users should be able to view street parking spots, reserve and pay for the parking spots or cancel their reservations. Build REST API's for the following and share the github repository with us. You can populate your database with any dummy data you want.
+Assume that we are building a street parking spot reservation service. Each parking spot is identified by its location (lat, lng). Users should be able to view street parking spots, reserve and pay for the parking spots or cancel their reservations.
 
  
 
