@@ -1,4 +1,4 @@
-# Parking Reservation API Assignment
+# Parking Reservation API Using DRF
 
 ## Project Description:
 
@@ -20,7 +20,7 @@ Assume that we are building a street parking spot reservation service. Each park
 
 • Show the user the cost of the reservation
 
-• Please write Unit tests Bonus
+• Unit tests
 
 • Automated tests
 
@@ -28,7 +28,7 @@ Assume that we are building a street parking spot reservation service. Each park
 
 • Validate that the phone numbers are real.
 
-• Additional features (whatever you think would be useful.)
+• Additional features
 
 
 
